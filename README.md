@@ -1,6 +1,6 @@
 # Flight-Fare-Prediction:
 
-Try out Youself?
+Try out Yourself?
 
 Link Here: https://flightfarepredictors.herokuapp.com/predict
 
